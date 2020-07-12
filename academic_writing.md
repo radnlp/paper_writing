@@ -288,6 +288,9 @@
         - We observed F1 score improvement on the XXX dataset
         - ... is more effective in ... than ...
         - ... advances over ...
+    - 我々の提案手法は追加コストが小さい
+        - ... adds only a small cost
+        - The additional costs are small
     - 我々の提案手法には〜という限界がある
         - ... suffer from ...
 - 研究の貢献を述べる
