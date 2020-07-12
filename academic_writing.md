@@ -247,6 +247,46 @@
         -
     - ⑩本文構成の紹介 (3-4文)
         -
+        
+##### §14-1. Introductionに使えそうな表現
+- 研究の内容を説明する
+    - 我々は〜を提案する
+        - We propose ...
+        - We introduce ...
+    - 我々は〜ということを示した
+        - We demonstrated that ...
+        - We showed that ...
+- 背景を説明する
+- 先行研究を説明する
+    - 先行研究は〜という手法を用いている
+        - 
+- 仮説を述べる
+    - we might expect that ...
+- 手法の内容を説明する
+    - 我々の提案手法は〜を用いている
+        - Our method uses ...
+        - Our method empolys ...
+        - Our method leverages ...
+    - 我々の提案手法によって〜が可能になる
+        - Our approach allows ...
+        - Our framework enables ...
+        - Our method ...
+    - AはBの役に立つ
+        - A benefit B
+- 手法の性能を説明する
+    - 〜で性能を検証した
+        - We evaluated ... on the XXX dataset
+    - 我々の提案手法は性能がよい
+        - ... significantly outperforms the state-of-the-art
+        - ... achieved state-of-the-art performance
+        - ... demonstrates better performance than ...
+        - We observed F1 score improvement on the XXX dataset
+        - ... is more effective in ... than ...
+- 研究の貢献を述べる
+    - The contributions of this paper are threefold. ("3点ある")
+- 図表の内容を説明する
+    - Figure 1 show an example illustrating ...
+
 
 ### §15. 文献レビューの書き方
 - 長さはどうすべきか?
