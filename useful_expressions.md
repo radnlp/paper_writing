@@ -12,6 +12,14 @@
     - 我々は〜を探索した
         - We explored ...
 - 背景を説明する
+    - 〜は重要である, 注目を浴びている
+        - ... is gaining attention
+    - 現状では〜するのに...が大きな障害となっている
+        - A major obstacle to ... is ...
+    - 利用可能なデータが少ないこと
+        - the low-source problem
+        - the poor data accessibility
+        - the poor data availability
 - 仮説を述べる
     - we might expect that ...
 - 手法の内容を説明する
