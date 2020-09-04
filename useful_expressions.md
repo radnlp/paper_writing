@@ -76,7 +76,8 @@
         - ... adds only a small cost
         - The additional costs are small
     - 我々の提案手法は〜を軽減する
-        - alleviate/mitigate O
+        - ... alleviate O
+        - ... mitigate O
     - 我々の提案手法には〜という限界がある
         - ... suffer from ...
 - 研究の貢献を述べる
