@@ -98,3 +98,9 @@
     - 先行研究の慣習に従って
         - Following the convention established in this line of work, ...
         - Following the procedure in ...
+
+
+# 3. これはいい英語
+[https://science.sciencemag.org/content/sci/363/6425/374.full.pdf](https://science.sciencemag.org/content/sci/363/6425/374.full.pdf)
+- At the heart of these concerns is the
+notion that a well-functioning democracy depends on its citizens being factually informed
