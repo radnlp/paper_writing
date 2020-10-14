@@ -1,3 +1,9 @@
+# 0. Idiom bucket
+- 〜に関して
+    - concerning ...
+    - regarding ...
+    - with regard to ...
+
 # 1. Introductionに使えそうな表現
 - 研究の内容, 位置づけを説明する
     - 我々は〜を提案する
