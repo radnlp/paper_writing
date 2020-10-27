@@ -432,6 +432,10 @@
 
 
 ### ほか, 研究室で学んだフィードバック
+- LaTeXでダブルクオーテーションを書くときの注意
+    - https://ossyaritoori.hatenablog.com/entry/2018/08/22/Latex%E3%81%A7%E3%81%AE%E5%BC%95%E7%94%A8%E7%AC%A6%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E6%B3%A8%E6%84%8F
+    - 開始のダブルクオーテーションには ` を使う
+    - 閉じるダブルクオーテーションには " を使う
 - ROC曲線が絡むときのキャプション
     - 性能などを表にまとめる場合
         - "Prediction performance at the optimal cutoff pint for each input data."
