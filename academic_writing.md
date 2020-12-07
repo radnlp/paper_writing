@@ -441,3 +441,16 @@
         - "Prediction performance at the optimal cutoff pint for each input data."
     - ROC曲線そのもののキャプション
         - The circle indicates the cutoff point chosen using Youden's index. AUC is the area under the curve.
+- 範囲を表すときはハイフンではなくエヌダッシュを使う
+
+### その他, 心得
+- 最終段階の心得
+    - 英文校閲に出しても安心するな
+        - 英文校閲でもチェックにときどき漏れがあるので, 最後は自力でミスを潰す必要がある
+        - 英文校閲で指摘された箇所だけを直して安心せず, 何回も全体を見直すこと
+        - 主語と動詞で単数複数は一致しているか?
+        - 時制は大丈夫か?
+        - 名詞の加算と不加算は大丈夫か?
+    - 何度も, 全文を読み直す
+        - 査読回答や英文校閲に伴って本文の一部を修正すると, 予想外の他部位と矛盾が生じていることがある
+        - 投稿から査読回答までの間に新しい先行研究が出現していることがある
