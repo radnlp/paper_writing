@@ -5,6 +5,8 @@
     - with regard to ...
 - AとBに関連があるとみなす, 似ているとみなす
     - equate A with B
+- Bが欠落しているA
+    - A with missing B
 
 # 1. Introductionに使えそうな表現
 - 研究の内容, 位置づけを説明する
@@ -85,6 +87,7 @@
         - We observed F1 score improvement on the XXX dataset
         - ... is more effective in ... than ...
         - ... advances over ...
+        - ... markedly improved ...
     - 我々の提案手法は追加コストが小さい
         - ... adds only a small cost
         - The additional costs are small
