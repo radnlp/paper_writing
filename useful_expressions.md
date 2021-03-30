@@ -117,7 +117,8 @@
     - 先行研究の慣習に従って
         - Following the convention established in this line of work, ...
         - Following the procedure in ...
-
+- 4例を除外して3996例を対象とした
+    - All but 4 of the studies met these criteria, leaving us with a study set of 3996 narrative reports
 
 # 3. これはいい英語
 [https://science.sciencemag.org/content/sci/363/6425/374.full.pdf](https://science.sciencemag.org/content/sci/363/6425/374.full.pdf)
