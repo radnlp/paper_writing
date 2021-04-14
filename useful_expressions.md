@@ -18,6 +18,12 @@
     - equate A with B
 - Bが欠落しているA
     - A with missing B
+- AはPからなる, PはAを構成する
+    - A consists of P
+    - A comprises P (紛らわしい)
+    - P comprises A (紛らわしい)
+    - A is comprised of P
+    - P constitute(s) A
 - 〜をもたらす, 〜につながる
     - lead to ...
     - result in ...
