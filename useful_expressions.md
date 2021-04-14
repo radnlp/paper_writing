@@ -18,6 +18,10 @@
     - equate A with B
 - Bが欠落しているA
     - A with missing B
+- 〜をもたらす, 〜につながる
+    - lead to ...
+    - result in ...
+    - bring ...
 
 # 1. Introductionに使えそうな表現
 - 研究の内容, 位置づけを説明する
